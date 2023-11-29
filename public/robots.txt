@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://doap.engineer/sitemap.xml
