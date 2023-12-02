@@ -38,6 +38,7 @@ params:
   comments: false
   hidemeta: false
   hideSummary: false
+  hideFooter: true
   showtoc: false
   tocopen: false
 
@@ -51,7 +52,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
+    text: "Diaries of a Platform Engineer"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
