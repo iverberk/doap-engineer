@@ -4,11 +4,11 @@ date = 2024-03-26T20:14:31+01:00
 draft = true
 +++
 
-In the world of software engineering, an Internal Developer Platform (IDP) serves as the backbone of your technological infrastructure, empowering your developers to efficiently build, deploy, and manage applications. However, it's not just the technical stack that determines the success of an IDP; factors like *onboarding*, *ease of use*, and *support* are equally—if not more—important. In smaller organizations, paying attention to these can be the difference between a smooth-running machine and a cluttered, under-utilized platform. Let’s dive into these critical aspects for building a successful IDP.
+In the world of software engineering, an Internal Developer Platform (IDP) serves as the backbone of your technological infrastructure, empowering your developers to efficiently build, deploy, and manage applications. However, it's not just the technical stack that determines the success of an IDP; factors like *onboarding*, *ease of use*, and *support* are equally —if not more— important. Paying attention to these can be the difference between a smooth-running machine and a cluttered, under-utilized platform. Let’s dive into these critical aspects for building a successful IDP.
 
 ## Onboarding: Setting Developers Up for Success
 
-Imagine this: A new developer joins your team, ready to contribute, but they hit a documentation wall that's about learning the platform—not executing tasks. Remember, the goal isn't to master the IDP itself, but to deliver products faster. That's why your documentation should be task-driven. Provide step-by-step templates within your CI/CD pipelines that show—not just tell—developers how to deploy, connect to databases, and integrate other services. The documentation should not be a textbook but a playbook, one that developers can run with immediately.
+Imagine this: A new developer joins your team, ready to contribute, but they hit a documentation wall that's about learning the platform, not executing tasks. Remember, the goal isn't to master the IDP itself, but to deliver products faster. That's why your documentation should be task-driven. Provide step-by-step templates within your CI/CD pipelines that show —not just tell— developers how to deploy, connect to databases, and integrate other services. The documentation should be a textbook that feels like a playbook, one that developers can run with immediately.
 
 Moreover, set up a DevOps journey that takes a developer from creating a Git project to deploying and running it in production with robust observability. Incorporate direct solutions to common questions such as:
 
@@ -34,9 +34,9 @@ Here’s the toughest nut to crack: providing responsive and effective support. 
 
 Creating a community that nurtures peer-to-peer support can relieve some of the pressure from the platform team. This is where stellar documentation comes into play again, as it empowers users to assist each other with references and shared experiences.
 
-As your organization expands beyond 100 teams, diversifying documentation and support structures becomes necessary. Implementing tiered support, with specialist teams positioned between the developers and the platform team, can streamline assistance while maintaining a high standard.
+As your organization expands, diversifying documentation and support structures may become necessary. Implementing tiered support, with specialist teams positioned between the developers and the platform team, can streamline assistance while maintaining a high standard.
 
-With advancements in AI and machine learning, platforms can offer personalized support, guiding users to solutions sometimes without direct human intervention. This burgeoning technology promises to revolutionize support but requires time and experimentation to integrate effectively.
+With advancements in AI and machine learning, platforms can offer personalized support, guiding users to solutions sometimes without direct human intervention. This upcoming technology promises to revolutionize support but requires time and experimentation to integrate effectively.
 
 ## Conclusion
 
