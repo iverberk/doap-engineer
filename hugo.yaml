@@ -29,7 +29,7 @@ params:
   description: "Platform engineering"
   keywords: [Blog]
   author: ["Ivo", "Armin"]
-  DateFormat: "January 2, 2006"
+  DateFormat: "2 January, 2006"
   defaultTheme: light
   disableThemeToggle: false
 
@@ -131,7 +131,6 @@ menu:
       name: tags
       url: /tags/
       weight: 50
-
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
