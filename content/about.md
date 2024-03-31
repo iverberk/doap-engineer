@@ -16,3 +16,5 @@ With years of hands-on experience under our belts, we've honed our skills in the
 Our philosophy is rooted in a relentless pursuit of excellence and a belief in the transformative power of collaboration. Agile at our core, we adapt to the ever-changing IT landscape, ensuring that our practices and teachings are as dynamic as the technologies we use.
 
 Whether you're looking to streamline your operations, elevate your cloud strategy, or fortify your defenses against cyber threats, we're here to share our insights and lead the way. Join us as we unravel the complexities of IT, transforming challenges into opportunities, and ideas into reality.
+
+Find more about [Ivo Verberk](https://www.linkedin.com/in/ivoverberk) founder of Itiation or [Armin Čoralić](https://www.linkedin.com/in/armincoralic) founder of [Asatix](https://www.asatix.com/)
