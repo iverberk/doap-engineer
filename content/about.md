@@ -6,6 +6,7 @@ ShowShareButtons: false
 ShowPostNavLinks: false
 ShowBreadCrumbs: false
 ShowWordCount: false
+searchHidden: true
 ---
 
 Welcome to our digital domain, where innovation meets expertise at the crossroads of technology. We are a duo of seasoned professionals with a shared passion for the vast landscape of IT, and we're thrilled to guide you through the intricate world of DevOps, SRE, platform engineering, cloud solutions, software development, architecture, agile methodologies, and cybersecurity.
