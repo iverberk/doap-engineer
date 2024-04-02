@@ -1,7 +1,7 @@
 ---
 title: Building a Successful IDP - The Human Factor
 date: 2024-03-26T20:14:31+01:00
-draft: true
+draft: false
 tags:
 - platform engineering
 - IDP
